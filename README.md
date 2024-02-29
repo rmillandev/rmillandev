@@ -22,7 +22,7 @@ para mejorar mis habilidades.
 
 - **Front**:
     
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js,react&perline=3)](https://skillicons.dev)
 -----
 
 <br>
